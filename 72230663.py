@@ -7,6 +7,8 @@ def bagi(a,b):
 def kali(a,b):
     return a*b
 
+#haiiiiiii
+
 print('Hasil + -->', tambah(5,4), '\n')
 print('Hasil - -->', kurang(5,4), '\n')
 print('Hasil / -->', bagi(5,4), '\n')
