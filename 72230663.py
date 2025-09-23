@@ -25,3 +25,5 @@ def ubah(x):
         print('5')
 
 print(ubah('c'))
+
+#apapun
