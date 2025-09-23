@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 tambah fitur oleh clara
 =======
 ========== Tambah Fitur C1 oleh Dex ==========
->>>>>>> 5c53004e8b6cc9f31b23f765b16fed039a18df9b
