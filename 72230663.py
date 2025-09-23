@@ -24,4 +24,4 @@ def ubah(x):
     elif x == 'e':
         print('5')
 
-print(ubah('c'))
+print(ubah('a'))
